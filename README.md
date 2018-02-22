@@ -7,8 +7,7 @@
 Landing Page  WordPress
 
 
-![preview](https://github.com/VadimRocket/ideolog/raw/master/preview/1.jpg)
-![preview](https://github.com/VadimRocket/ideolog/raw/master/preview/2.jpg)
-![preview](https://github.com/VadimRocket/ideolog/raw/master/preview/3.jpg)
-
+![preview](https://github.com/VadimRocket/ideolog/raw/master/review/1.jpg)
+![preview](https://github.com/VadimRocket/ideolog/raw/master/review/2.jpg)
+![preview](https://github.com/VadimRocket/ideolog/raw/master/review/3.jpg)
 
